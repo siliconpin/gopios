@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=GPG Key Setup
+Exec=/bin/bash -c "/opt/set-dark-mode.sh"
+X-KDE-autostart-phase=1
+X-KDE-StartupNotify=false
+Comment=Generate GPG key on first login

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Helper DAG
+Comment=Topic and information about gopios
+Exec=konsole -e /opt/dag.sh
+Icon=system-software-install
+Terminal=false
+Categories=System;Utilies;
+StartupNotify=true

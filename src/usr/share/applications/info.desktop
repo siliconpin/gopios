@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=GoPiOS Topics
+Comment=Open GoPiOS topics on SiliconPin
+Exec=xdg-open https://siliconpin.com/topics?tag=gopios
+Icon=internet-web-browser
+Terminal=false
+Categories=Development;Education
+StartupNotify=true

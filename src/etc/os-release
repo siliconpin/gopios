@@ -1,0 +1,10 @@
+NAME="gopios"
+PRETTY_NAME="gopios"
+ID=gopios
+ID_LIKE=gopios
+ANSI_COLOR="0;36"
+HOME_URL="https://siliconpin.com/gopios/"
+DOCUMENTATION_URL="https://siliconpin.com/gopios/"
+SUPPORT_URL="https://siliconpin.com/topics?tag=gopios"
+BUG_REPORT_URL="https://git.siliconpin.com/gopios/gopios/"
+LOGO=gopios

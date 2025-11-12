@@ -1,0 +1,33 @@
+# GRUB boot loader configuration
+
+# Default boot entry (0 = first entry, 1 = second, etc.)
+GRUB_DEFAULT=0
+
+# Boot the default entry after this many seconds
+GRUB_TIMEOUT=0
+
+# Distributor identifier (typically your distro name)
+GRUB_DISTRIBUTOR="gopios"
+
+# Kernel command line options
+GRUB_CMDLINE_LINUX_DEFAULT="quiet splash"
+GRUB_CMDLINE_LINUX=""
+
+# Uncomment to enable graphical terminal
+#GRUB_TERMINAL=console
+
+# Resolution for graphical mode (if supported)
+GRUB_GFXMODE=1920x1080
+
+# Uncomment to disable generation of recovery mode menu entries
+#GRUB_DISABLE_RECOVERY="true"
+
+# Uncomment to disable OS prober (useful if you don't have other OSes)
+GRUB_DISABLE_OS_PROBER=false
+
+# Background image for GRUB menu
+GRUB_BACKGROUND="/usr/share/wallpapers/walls/background3.png"
+
+# Uncomment to enable hidden menu (press Shift to show)
+#GRUB_HIDDEN_TIMEOUT=0
+#GRUB_HIDDEN_TIMEOUT_QUIET=true

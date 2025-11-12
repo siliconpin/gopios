@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Name=Trust Desktop Files
+Exec=bash -c 'gio set ~/Desktop/Apps/*.desktop metadata::trusted true; chmod +x ~/Desktop/Apps/*.desktop'
+Hidden=true

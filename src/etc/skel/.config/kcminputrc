@@ -1,0 +1,22 @@
+[$Version]
+update_info=delete_cursor_old_default_size.upd:DeleteCursorOldDefaultSize,kcminputrc_fix_botched_5_21_0.upd:kcminputrc_fix_botched_5_21_0,kcminputrc_repeat.upd:kcminputrc_migrate_key_repeat
+
+[Keyboard]
+NumLock=0
+RepeatDelay=600
+RepeatRate=25
+
+[Libinput]
+PointerAcceleration=0
+
+[Mouse]
+X11LibInputXAccelProfileFlat=true
+XLbInptNaturalScroll=true
+cursorSize=24
+cursorTheme=breeze_cursors
+
+# Apply to all input devices
+[Libinput][*][*][*]
+NaturalScroll=true
+TapToClick=true
+TapAndDrag=true

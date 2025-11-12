@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Linux Installer
+Comment=Install linux in a container on gopios using boxbuddy
+Exec=/usr/bin/boxbuddy-rs
+Icon=/usr/share/icons/gopios/linuxInstaller-logo.png
+Categories=Development;System;
