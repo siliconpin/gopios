@@ -195,7 +195,7 @@ glew
 glib2
 glibc
 glibc>=2.27
-glibc=2.42+r17+gd7274d718e6f
+glibc=2.42+r33+gde1fe81f4714
 glib-networking
 glm
 glslang
@@ -208,6 +208,7 @@ gnome-desktop
 gnome-desktop-common=1:44.4-1
 gnome-disk-utility
 gnome-keyring
+gnome-terminal
 gnome-video-effects
 gnulib-l10n
 gnupg
@@ -485,6 +486,7 @@ libblockdev-loop
 libblockdev-mdraid
 libblockdev-nvme
 libblockdev-part
+libblockdev-smart
 libblockdev-swap
 libbluray
 libbluray.so=3-64
@@ -951,7 +953,7 @@ polkit
 polkit-kde-agent
 polkit-qt6
 poppler
-poppler=25.10.0
+poppler=25.11.0
 poppler-qt6
 popt
 portaudio
@@ -994,6 +996,7 @@ python-psutil
 python-pycparser
 python-pydantic
 python-pydantic-core
+python-pyelftools
 python-pygments
 python-pysocks
 python-pyte
@@ -1074,8 +1077,8 @@ sddm
 sdl
 sdl12-compat
 sdl2
-sdl2_ttf
 sdl3
+sdl3_ttf
 sdl_image
 sed
 semver
@@ -1171,7 +1174,7 @@ vapoursynth
 verdict
 vid.stab
 vim
-vim-runtime=9.1.1841-1
+vim-runtime=9.1.1908-1
 virtualbox
 virtualbox-host-dkms
 VIRTUALBOX-HOST-MODULES
